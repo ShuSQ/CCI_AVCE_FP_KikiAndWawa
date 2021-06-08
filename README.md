@@ -105,7 +105,7 @@ public class CameraController : MonoBehaviour
 
 The effect of testing in Unity is as follows:
 
-![](https://miro.medium.com/max/3840/1*IKXZz0B28sbMRzssEF2_2Q.gif)
+![](https://miro.medium.com/max/1200/1*0x0gg_R7ySrDpFlukkjLVA.gif)
 
 Next, we create the character animation, allow the player to control the movement of the character through the keyboard, and create the rigibody and collider so that the character has physical properties. You can view the complete code in `PlayerController.cs`:
 
@@ -193,19 +193,19 @@ After the main game scene is completed, we also need to improve the game's menu 
 
 Share some game content with you, of course, you can also download the Mac version to try it out! But there are still many bugs in the game, sorry.
 
-![](https://miro.medium.com/max/2412/1*SDITmIKe0BbnEmH-O9ASGA.gif)
+![](https://miro.medium.com/max/800/1*SDITmIKe0BbnEmH-O9ASGA.gif)
 
-![](https://miro.medium.com/max/2416/1*WIoOhQccuproJb6YiSjB3A.gif)
+![](https://miro.medium.com/max/800/1*WIoOhQccuproJb6YiSjB3A.gif)
 
-![](https://miro.medium.com/max/2468/1*Al6ZgSdzQ1rLv-daeIMS3g.gif)
+![](https://miro.medium.com/max/800/1*Al6ZgSdzQ1rLv-daeIMS3g.gif)
 
-![](https://miro.medium.com/max/1234/1*5WbQUaSZ-koaanWKuaQVCA.gif)
+![](https://miro.medium.com/max/800/1*5WbQUaSZ-koaanWKuaQVCA.gif)
 
-![](https://miro.medium.com/max/1234/1*mB1e6M7qYHb5bJj1RIDgLQ.gif)
+![](https://miro.medium.com/max/800/1*mB1e6M7qYHb5bJj1RIDgLQ.gif)
 
-![](https://miro.medium.com/max/1234/1*6G2B4f3ElWaer29YPHCiqg.gif)
+![](https://miro.medium.com/max/800/1*6G2B4f3ElWaer29YPHCiqg.gif)
 
-![](https://miro.medium.com/max/1234/1*PwX9ldPKeMvPq4cwAVSJSw.gif)
+![](https://miro.medium.com/max/800/1*PwX9ldPKeMvPq4cwAVSJSw.gif)
 
 
 
