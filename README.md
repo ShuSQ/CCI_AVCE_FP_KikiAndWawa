@@ -170,19 +170,19 @@ The achieved effect is as follows:
 
 In this part, we need to create a game space where the characters can move. This part makes me feel very difficult. How to make the space interesting and feel natural is a big challenge.
 
-In the initial idea, we considered choosing the polygon style, because it makes people feel more interesting and relaxed. I purchased assets-[POLYGON Prototype](https://assetstore.unity.com/packages/3d/props/exterior/polygon-prototype-low-poly-3d-art-by-synty-137126) and it is great ! The other two assets are also very helpful: [POLYGON Starter Pack](https://assetstore.unity.com/packages/3d/props/polygon-starter-pack-low-poly-3d-art-by-synty- 156819) and [Free Trees](https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208). 
+In the initial idea, we considered choosing the polygon style, because it makes people feel more interesting and relaxed. I purchased assets-[POLYGON Prototype](https://assetstore.unity.com/packages/3d/props/exterior/polygon-prototype-low-poly-3d-art-by-synty-137126) and it is great ! The other two assets are also very helpful: [POLYGON Starter Pack](https://assetstore.unity.com/packages/3d/props/polygon-starter-pack-low-poly-3d-art-by-synty-156819) and [Free Trees](https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208). 
 
 Editing the map is really a complicated matter, and I spent a lot of time thinking about what elements need to be added.
 
-![](https://miro.medium.com/max/3840/1*y1xCBC0eHDG6LM6KTDY4Hw.png)
+![](https://miro.medium.com/max/1080/1*y1xCBC0eHDG6LM6KTDY4Hw.png)
 
-![](https://miro.medium.com/max/800/1*7RfCnrr6nytpcrf-vVg-Lw.png)
+![](https://miro.medium.com/max/1080/1*7RfCnrr6nytpcrf-vVg-Lw.png)
 
-![](https://miro.medium.com/max/2228/1*_3OpVXpIf94VJ_XjUWGazQ.png)
+![](https://miro.medium.com/max/1080/1*_3OpVXpIf94VJ_XjUWGazQ.png)
 
-![](https://miro.medium.com/max/2418/1*s1Esn752PCeZ-kjnH5LAqQ.png)
+![](https://miro.medium.com/max/1080/1*s1Esn752PCeZ-kjnH5LAqQ.png)
 
-![](https://miro.medium.com/max/2410/1*4j5DXmAafekSJ3BAnB1s8Q.png)
+![](https://miro.medium.com/max/1080/1*4j5DXmAafekSJ3BAnB1s8Q.png)
 
 
 
