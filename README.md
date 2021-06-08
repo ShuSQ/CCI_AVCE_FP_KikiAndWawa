@@ -1,8 +1,9 @@
 # CCI_AVCE_FP_KikiAndWawa
 
-> Brief: Kiki and Wawa are travelers in the world. They explore the world and meet different friends. This is a simple scenario in the game. Players need to control Kiki to find friends: Dogknight, in order to learn new skills. Players can move freely in the world and can also interact with different objects.
-
 ![](https://miro.medium.com/max/1920/1*3M7jJdVf0SRY-tNC4ytzng.gif)
+
+
+> Brief: Kiki and Wawa are travelers in the world. They explore the world and meet different friends. This is a simple scenario in the game. Players need to control Kiki to find friends: Dogknight, in order to learn new skills. Players can move freely in the world and can also interact with different objects.
 
 **📹 - Youtube(game video):** https://youtu.be/ZHsukXkWIjc
 
