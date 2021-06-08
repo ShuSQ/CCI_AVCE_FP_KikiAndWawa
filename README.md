@@ -4,11 +4,11 @@
 
 ![](https://miro.medium.com/max/1920/1*3M7jJdVf0SRY-tNC4ytzng.gif)
 
-**Youtube(game video):** https://youtu.be/ZHsukXkWIjc
+**📹 Youtube(game video):** https://youtu.be/ZHsukXkWIjc
 
-**DropBox(Unity files):** https://www.dropbox.com/sh/fzsqfk2k35a9hak/AACmnJnJKNzBXVWHPlOGZcfAa?dl=0
+**📦 DropBox(Unity files):** https://www.dropbox.com/sh/fzsqfk2k35a9hak/AACmnJnJKNzBXVWHPlOGZcfAa?dl=0
 
-**Github（game file):** https://github.com/ShuSQ/CCI_AVCE_FP_KikiAndWawa
+**🛠 Github（game file):** https://github.com/ShuSQ/CCI_AVCE_FP_KikiAndWawa
 
 
 
