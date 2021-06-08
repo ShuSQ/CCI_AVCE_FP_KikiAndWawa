@@ -193,19 +193,19 @@ After the main game scene is completed, we also need to improve the game's menu 
 
 Share some game content with you, of course, you can also download the Mac version to try it out! But there are still many bugs in the game, sorry.
 
-![](https://miro.medium.com/max/960/1*SDITmIKe0BbnEmH-O9ASGA.gif)
+![](https://miro.medium.com/max/800/1*6G2B4f3ElWaer29YPHCiqg.gif)
 
-![](https://miro.medium.com/max/960/1*WIoOhQccuproJb6YiSjB3A.gif)
+![](https://miro.medium.com/max/800/1*SDITmIKe0BbnEmH-O9ASGA.gif)
 
-![](https://miro.medium.com/max/960/1*Al6ZgSdzQ1rLv-daeIMS3g.gif)
+![](https://miro.medium.com/max/800/1*WIoOhQccuproJb6YiSjB3A.gif)
 
-![](https://miro.medium.com/max/960/1*5WbQUaSZ-koaanWKuaQVCA.gif)
+![](https://miro.medium.com/max/800/1*Al6ZgSdzQ1rLv-daeIMS3g.gif)
 
-![](https://miro.medium.com/max/960/1*6G2B4f3ElWaer29YPHCiqg.gif)
+![](https://miro.medium.com/max/800/1*5WbQUaSZ-koaanWKuaQVCA.gif)
 
-![](https://miro.medium.com/max/960/1*mB1e6M7qYHb5bJj1RIDgLQ.gif)
+![](https://miro.medium.com/max/800/1*mB1e6M7qYHb5bJj1RIDgLQ.gif)
 
-![](https://miro.medium.com/max/960/1*PwX9ldPKeMvPq4cwAVSJSw.gif)
+![](https://miro.medium.com/max/800/1*PwX9ldPKeMvPq4cwAVSJSw.gif)
 
 
 
