@@ -4,6 +4,14 @@
 
 ![](https://miro.medium.com/max/1920/1*3M7jJdVf0SRY-tNC4ytzng.gif)
 
+**Youtube(game video):** https://youtu.be/ZHsukXkWIjc
+
+**DropBox(Unity files):** https://www.dropbox.com/sh/fzsqfk2k35a9hak/AACmnJnJKNzBXVWHPlOGZcfAa?dl=0
+
+**Github（game file):** https://github.com/ShuSQ/CCI_AVCE_FP_KikiAndWawa
+
+
+
 ### 1.Create roles and camera
 
 After having a rough game concept, we started looking for suitable characters, and finally we chose these free models in the assetstore, which can help us work more efficiently.
