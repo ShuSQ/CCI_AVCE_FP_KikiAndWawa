@@ -201,9 +201,9 @@ Share some game content with you, of course, you can also download the Mac versi
 
 ![](https://miro.medium.com/max/800/1*5WbQUaSZ-koaanWKuaQVCA.gif)
 
-![](https://miro.medium.com/max/800/1*mB1e6M7qYHb5bJj1RIDgLQ.gif)
-
 ![](https://miro.medium.com/max/800/1*6G2B4f3ElWaer29YPHCiqg.gif)
+
+![](https://miro.medium.com/max/800/1*mB1e6M7qYHb5bJj1RIDgLQ.gif)
 
 ![](https://miro.medium.com/max/800/1*PwX9ldPKeMvPq4cwAVSJSw.gif)
 
