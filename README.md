@@ -174,9 +174,15 @@ In the initial idea, we considered choosing the polygon style, because it makes 
 
 Editing the map is really a complicated matter, and I spent a lot of time thinking about what elements need to be added.
 
-![](hhttps://miro.medium.com/max/800/1*8eFbhGUptubL7riUjyZpGA.png)
+![](https://miro.medium.com/max/3840/1*y1xCBC0eHDG6LM6KTDY4Hw.png)
 
 ![](https://miro.medium.com/max/800/1*7RfCnrr6nytpcrf-vVg-Lw.png)
+
+![](https://miro.medium.com/max/2228/1*_3OpVXpIf94VJ_XjUWGazQ.png)
+
+![](https://miro.medium.com/max/2418/1*s1Esn752PCeZ-kjnH5LAqQ.png)
+
+![](https://miro.medium.com/max/2410/1*4j5DXmAafekSJ3BAnB1s8Q.png)
 
 
 
