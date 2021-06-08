@@ -2,19 +2,19 @@
 
 > Brief: Kiki and Wawa are travelers in the world. They explore the world and meet different friends. This is a simple scenario in the game. Players need to control Kiki to find friends: Dogknight, in order to learn new skills. Players can move freely in the world and can also interact with different objects.
 
-![](https://miro.medium.com/max/2468/1*3M7jJdVf0SRY-tNC4ytzng.gif)
+![](https://miro.medium.com/max/1920/1*3M7jJdVf0SRY-tNC4ytzng.gif)
 
 ### 1.Create roles and camera
 
 After having a rough game concept, we started looking for suitable characters, and finally we chose these free models in the assetstore, which can help us work more efficiently.
 
-![](https://miro.medium.com/max/3450/1*V66qXaUowussE25RiFrYrg.png)
+![](https://miro.medium.com/max/1080/1*V66qXaUowussE25RiFrYrg.png)
 
-![](https://miro.medium.com/max/3408/1*V4Kwcl5B8N64fKSYj0CEAQ.png)
+![](https://miro.medium.com/max/1080/1*V4Kwcl5B8N64fKSYj0CEAQ.png)
 
 You can also find them in Unity’s assetstore: [Party Monster](https://assetstore.unity.com/packages/3d/characters/creatures/party-monster-duo-polyart-195698) and [Dog Knight](https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227)
 
-![](https://miro.medium.com/max/1920/1*saZ8VyAvCs5fEjnj0Cs2Lg.png)
+![](https://miro.medium.com/max/1080/1*saZ8VyAvCs5fEjnj0Cs2Lg.png)
 
 Then, we created a camera script that allows camera move with the character,also players can  adjust the angle with the mouse. `CameraController.cs` is detailed as follows:
 
@@ -105,7 +105,7 @@ public class CameraController : MonoBehaviour
 
 The effect of testing in Unity is as follows:
 
-![](https://miro.medium.com/max/1200/1*0x0gg_R7ySrDpFlukkjLVA.gif)
+![](https://miro.medium.com/max/1080/1*0x0gg_R7ySrDpFlukkjLVA.gif)
 
 Next, we create the character animation, allow the player to control the movement of the character through the keyboard, and create the rigibody and collider so that the character has physical properties. You can view the complete code in `PlayerController.cs`:
 
@@ -153,7 +153,7 @@ Next, we create the character animation, allow the player to control the movemen
 
 The achieved effect is as follows:
 
-![](https://miro.medium.com/max/3776/1*ZDdyrwP1xzBAKeJmqq043g.gif)
+![](https://miro.medium.com/max/1080/1*ZDdyrwP1xzBAKeJmqq043g.gif)
 
 
 
@@ -165,9 +165,9 @@ In the initial idea, we considered choosing the polygon style, because it makes 
 
 Editing the map is really a complicated matter, and I spent a lot of time thinking about what elements need to be added.
 
-![](https://miro.medium.com/max/2164/1*AaoW4FWTnv6dizpQPNyeZQ.png)
+![](https://miro.medium.com/max/1080/1*AaoW4FWTnv6dizpQPNyeZQ.png)
 
-![](https://miro.medium.com/max/2416/1*7RfCnrr6nytpcrf-vVg-Lw.png)
+![](https://miro.medium.com/max/1080/1*7RfCnrr6nytpcrf-vVg-Lw.png)
 
 
 
@@ -175,9 +175,9 @@ Editing the map is really a complicated matter, and I spent a lot of time thinki
 
 In order to enrich the content of the game, we also introduced some NPCs and gold coins, and added some simple sounds and BGM to make the environment more realistic. Our music is also free material, you can find them here：[*FREE* Retro Game Music](https://assetstore.unity.com/packages/audio/music/free-retro-game-music-47825) and [FREE Music For Puzzle Games](https://assetstore.unity.com/packages/audio/music/free-music-for-puzzle-games-152395). Our NPCs come from：[RPG Monster Duo PBR Polyart](https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762).
 
-![](https://miro.medium.com/max/2900/1*RJ4V3j1vaKvCgVZwbX8_mA.png)
+![](https://miro.medium.com/max/1080/1*RJ4V3j1vaKvCgVZwbX8_mA.png)
 
-![](https://miro.medium.com/max/2394/1*IMQ1RydwdK8pzCHcbuKE0g.png)
+![](https://miro.medium.com/max/1080/1*IMQ1RydwdK8pzCHcbuKE0g.png)
 
 
 
@@ -185,9 +185,9 @@ In order to enrich the content of the game, we also introduced some NPCs and gol
 
 After the main game scene is completed, we also need to improve the game's menu page and end page. At this point, our simple game is almost complete, and I want to share some simple game content.
 
-![](https://miro.medium.com/max/2420/1*rwQhy7yy5dvd8Y2vG1l_fA.png)
+![](https://miro.medium.com/max/1080/1*rwQhy7yy5dvd8Y2vG1l_fA.png)
 
-![](https://miro.medium.com/max/2420/1*nSa4lmxzjKPKV32MFjZw6A.png)
+![](https://miro.medium.com/max/1080/1*nSa4lmxzjKPKV32MFjZw6A.png)
 
 ### 5.Preview
 
